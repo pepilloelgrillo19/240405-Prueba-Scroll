@@ -14,6 +14,7 @@
 		A0746C9F2BC04DD000F3C085 /* _40405_Prueba_ScrollTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0746C9E2BC04DD000F3C085 /* _40405_Prueba_ScrollTests.swift */; };
 		A0746CA92BC04DD000F3C085 /* _40405_Prueba_ScrollUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0746CA82BC04DD000F3C085 /* _40405_Prueba_ScrollUITests.swift */; };
 		A0746CAB2BC04DD000F3C085 /* _40405_Prueba_ScrollUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0746CAA2BC04DD000F3C085 /* _40405_Prueba_ScrollUITestsLaunchTests.swift */; };
+		A0746CB82BC04DF100F3C085 /* VistaCarrusel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0746CB72BC04DF100F3C085 /* VistaCarrusel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		A0746CA42BC04DD000F3C085 /* 240405 Prueba ScrollUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "240405 Prueba ScrollUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0746CA82BC04DD000F3C085 /* _40405_Prueba_ScrollUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _40405_Prueba_ScrollUITests.swift; sourceTree = "<group>"; };
 		A0746CAA2BC04DD000F3C085 /* _40405_Prueba_ScrollUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _40405_Prueba_ScrollUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A0746CB72BC04DF100F3C085 /* VistaCarrusel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VistaCarrusel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				A0746C8D2BC04DCF00F3C085 /* _40405_Prueba_ScrollApp.swift */,
 				A0746C8F2BC04DCF00F3C085 /* ContentView.swift */,
+				A0746CB72BC04DF100F3C085 /* VistaCarrusel.swift */,
 				A0746C912BC04DD000F3C085 /* Assets.xcassets */,
 				A0746C932BC04DD000F3C085 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A0746CB82BC04DF100F3C085 /* VistaCarrusel.swift in Sources */,
 				A0746C902BC04DCF00F3C085 /* ContentView.swift in Sources */,
 				A0746C8E2BC04DCF00F3C085 /* _40405_Prueba_ScrollApp.swift in Sources */,
 			);
