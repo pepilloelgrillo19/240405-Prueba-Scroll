@@ -45,6 +45,6 @@ struct VistaCarrusel: View {
 
 struct VistaCarrusel_Previews: PreviewProvider {
     static var previews: some View {
-        VistaCarrusel(imagen: "sheik", textoTitulo: "", textoDescripcion: "", textoAutor: "")
+        VistaCarrusel(imagen: "sheik", textoTitulo: "1", textoDescripcion: "2", textoAutor: "3")
     }
 }

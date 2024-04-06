@@ -31,11 +31,12 @@ struct ContentView: View {
                     }
                 }
             } else {
+                Spacer()
                 Text("Horizontal")
                     .font(.title)
                     .bold()
                     .padding(5)
-                    .background(Color.blue.opacity(0.5))
+                    .background(Color.blue.opacity(0.7))
                     .cornerRadius(15)
                     .padding(8)
                     .overlay(RoundedRectangle(cornerRadius: 15).stroke(.black, lineWidth: 2))
